@@ -138,6 +138,6 @@ Tramevio uses the [Tramevio Software Licence](LICENSE), a proprietary licence.
 - Professional and other uses outside the free grant require a written commercial licence, including paid products, SaaS and internal business applications.
 - Standalone redistribution, modifications and competing library products are restricted as described in the licence.
 
-For commercial licensing, contact [younesbarhouni@live.com](mailto:younesbarhouni@live.com).
+For commercial licensing, contact [tramavio@gmail.com](mailto:tramavio@gmail.com).
 
 The licence shipped with each package governs that version unless a separate written agreement applies. This overview does not replace the full licence.
