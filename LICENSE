@@ -1,0 +1,92 @@
+Tramevio Software Licence
+
+Copyright (c) 2026 younes-barhouni. All rights reserved.
+
+1. Definitions
+
+"Software" means the Tramevio library as distributed by the Licensor: its
+compiled code, its type definitions, its documentation and any file shipped
+with it. "Licensor" means younes-barhouni. "You" means the person or entity
+using the Software.
+
+2. Ownership
+
+The Software is licensed, not sold. The Licensor keeps all rights, title and
+interest in the Software. Any right not expressly granted by this licence is
+reserved. Availability of the Software in a public repository or package
+registry grants no right beyond those written here.
+
+3. Free use
+
+Subject to the conditions of this licence, the Licensor grants You a
+non-exclusive, non-transferable, revocable, royalty-free right to install and
+use the Software, unmodified:
+
+  a) for non-commercial purposes — personal projects, teaching, academic
+     research, and the activities of non-profit organisations that do not
+     generate revenue from the application using the Software;
+  b) for evaluation — to decide whether to acquire a commercial licence, in
+     environments that are not used in production.
+
+Under a) You may include the Software, unmodified and with this licence, in
+an application that You distribute free of charge.
+
+4. Commercial use
+
+Any other use requires a commercial licence agreed in writing with the
+Licensor, including: use in a product or service that is sold, rented or
+subscribed to; use within a company or public body for its own operations;
+use in production except where expressly permitted by section 3(a); and any use that is not covered by section 3.
+
+Commercial licences: younesbarhouni@live.com.
+
+5. Restrictions
+
+Except as expressly permitted by section 3 or by a written commercial licence, You may not:
+
+  a) sell, rent, lend, sublicense or otherwise transfer the Software, or
+     distribute it on its own or as a component of another library, toolkit
+     or development product;
+  b) modify the Software, or create derivative works of it;
+  c) remove or alter any copyright or licence notice;
+  d) use the Software, or any part of it, to build a product that competes
+     with it;
+  e) reverse engineer the compiled code beyond what the applicable law
+     expressly permits despite this restriction.
+
+6. Contributions
+
+Contributions of code are accepted only under a separate contributor
+agreement signed with the Licensor. Reports of defects and suggestions may be
+submitted freely and may be used by the Licensor without obligation.
+
+7. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING WITHOUT LIMITATION THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, TO THE EXTENT
+PERMITTED BY THE APPLICABLE LAW.
+
+8. Limitation of liability
+
+TO THE EXTENT PERMITTED BY THE APPLICABLE LAW, THE LICENSOR SHALL NOT BE
+LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, NOR FOR
+ANY LOSS OF DATA, PROFIT OR BUSINESS, ARISING FROM THE USE OF THE SOFTWARE OR
+FROM THE INABILITY TO USE IT.
+
+9. Termination
+
+This licence ends automatically if You breach it. On termination, You must
+stop using the Software and delete every copy in Your possession. Sections 2,
+5, 7, 8 and 10 survive termination.
+
+10. Governing law
+
+This licence is governed by French law. If You are a consumer, this choice
+does not deprive You of the protection of mandatory provisions of the law
+that would apply in the absence of this choice, including, where applicable,
+the law of the country of Your habitual residence.
+
+Any dispute shall be brought before the courts having jurisdiction under
+the applicable rules. This licence does not impose an exclusive choice of
+court or restrict any mandatory jurisdiction rules or consumer rights.
